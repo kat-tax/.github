@@ -10,15 +10,6 @@
   | <a href="https://codesandbox.io/s/ult-erbh1">Sandbox</a>
   | <a href="https://discord.gg/TzhDRyj">Discord</a>
 </p>
-<blockquote align="center">
+<h4 align="center">
   One code base for native mobile, native desktop, and web!
-</blockquote>
-<p align="center">
-  To create your cross-platform app, run <code>npx ult [project]</code>
-</p>
-<p align="center">
-  Then, navigate to the folder and run <code>npm run [task]</code>
-</p>
-<p align="center">
-  <i>For more details, reference the <a href="https://docs.ult.dev">documentation</a></i>
-</p>
+</h4>
