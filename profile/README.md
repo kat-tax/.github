@@ -22,10 +22,3 @@
 <p align="center">
   <i>For more details, reference the <a href="https://docs.ult.dev">documentation</a></i>
 </p>
-<p align="center">
-  <img src="images/platforms.svg" width="250">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/npm/v/ult?color=000&style=flat-square">
-  <img src="https://img.shields.io/node/v/ult?color=000&style=flat-square">
-</p>
